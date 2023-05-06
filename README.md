@@ -31,7 +31,7 @@ $python preprocessing_ch.py
 $python TF-IDF.py
 
 ### Word2Vec model
-$python convert_ch.py
+$python convert_ch.py <br>
 $python word2vec.py
 
 ### CountVectorizer
